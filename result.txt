@@ -1,0 +1,1 @@
+{"Uid":"0473EF62D55680","ReadOnly":false,"DataLength":null,"CanMakeReadOnly":true,"Formatted":true,"Records":null,"TagTech":"NTAG216","MaxDataLength":884,"Exception":"Error reading a block from the NFC tag."}
